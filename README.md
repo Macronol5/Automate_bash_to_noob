@@ -40,8 +40,6 @@ while [ $i = "y" ]
 
 do 
 
-	# Menu items
-
 	echo "Please select an option:"
 
 	echo "1. List all files in a directory"
