@@ -17,10 +17,11 @@ Now Follow my Instructions
 11. Now save the file since it is nano ctrl +  o to save and ctrl + x to exit
 12. Now open new terminal and type Google you might get surprise
 
+
+
+
 ##The Code comes here:
 #!/bin/bash
-
-
 
 # check weather user is root 
 if [[ $EUID -ne 0 ]]; then
