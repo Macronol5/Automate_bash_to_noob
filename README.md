@@ -9,7 +9,7 @@ Now Follow my Instructions
 3. Open any editor since your new Open gedit for now
 4. Type gedit file.sh
 5. Copy the code below and save it
-6. Since you are new you may forget now to run the script so i made an Automation
+6. Since you are new you may forget how to run script so i made it automate
 7. First open bashrc
 8. nano ~/.bashrc (shell script that Bash runs whenever it is started.)
 9. then scroll down to the end and paste the below code.
